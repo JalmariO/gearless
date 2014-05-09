@@ -1,0 +1,54 @@
+<style type="text/css">
+#kirjaimet{
+	font-family:Arial;
+	color:white;
+	text-align:center;
+	font-size: 1em;
+	font-weight:bold;
+	background-color:black;	
+	}
+#kirjaimet a:link,
+#kirjaimet a:visited,
+#kirjaimet a:hover,
+#kirjaimet a:active,
+#kirjaimet a:hover {
+	color:white;
+}
+#kuvat #fkuvat {
+	background-color:black;
+	font-size:100%;
+	text-align:center;
+}
+#kuvat img {
+	width: 100%;
+	max-width: 500px;
+}
+#alkumenu{
+	font-family:Arial;
+	text-align:center;
+	color:white;
+	font-size: 1em;
+	margin-top:5px;
+}
+.ui-btn{
+	padding: .76em;
+}
+.ui-btn-inline{
+	margin-right: .125em;
+	margin-bottom: .125em;
+}
+.kirj{
+	display:none;
+}
+.fkirj{
+	display:none;
+}
+#footer_link a:link,
+#footer_link a:visited,
+#footer_link a:hover,
+#footer_link a:active,
+#footer_link a:hover  {
+	text-align:center;
+	color:white;
+}
+</style>
