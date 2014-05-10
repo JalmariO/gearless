@@ -19,7 +19,8 @@
 	font-size:100%;
 	text-align:center;
 }
-#kuvat img {
+#kuvat img,
+#fkuvat img {
 	width: 100%;
 	max-width: 500px;
 }
