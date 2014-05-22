@@ -31,7 +31,15 @@
 	  "N" => array("N","Crank","./randoms/fastrax/randomNCrank.jpg"),
 	  "O" => array("O","Satellite","./randoms/fastrax/randomOSatellite.jpg"),
 	  "P" => array("P","Sidebody","./randoms/fastrax/randomPSidebody.jpg"),
-	  "Q" => array("Q","Phalanx","./randoms/fastrax/randomQPhalanx.jpg")
+	  "Q" => array("Q","Phalanx","./randoms/fastrax/randomQPhalanx.jpg"),
+	  "2" => array("2","2","./blocks/2.gif"),
+	  "4" => array("4","4","./blocks/4.gif"),
+	  "6" => array("6","6","./blocks/6.gif"),
+	  "7" => array("7","7","./blocks/7.gif"),
+	  "8" => array("8","8","./blocks/8.gif"),
+	  "9" => array("9","9","./blocks/9.gif"),
+	  "19" => array("19","19","./blocks/19.gif"),
+	  "21" => array("21","21","./blocks/21.gif")
 	  );
 	$gearless = array
 	  (
@@ -50,7 +58,15 @@
 	  "N" => array("N","Crank","./randoms/gearless/randomN.png"),
 	  "O" => array("O","Satellite","./randoms/gearless/randomO.png"),
 	  "P" => array("P","Sidebody","./randoms/gearless/randomP.png"),
-	  "Q" => array("Q","Phalanx","./randoms/gearless/randomQ.png")
+	  "Q" => array("Q","Phalanx","./randoms/gearless/randomQ.png"),
+	  "2" => array("2","2","./blocks/2.gif"),
+	  "4" => array("4","4","./blocks/4.gif"),
+	  "6" => array("6","6","./blocks/6.gif"),
+	  "7" => array("7","7","./blocks/7.gif"),
+	  "8" => array("8","8","./blocks/8.gif"),
+	  "9" => array("9","9","./blocks/9.gif"),
+	  "19" => array("19","19","./blocks/19.gif"),
+	  "21" => array("21","21","./blocks/21.gif")
 	  );
 	?>
 	//Jquery, jolla lisätään ja poistetaan elementtejä sivulle. Kuvat , kirjaimet jne. Samalla annetaan elementeille css -luokkia tehosteiksi.
