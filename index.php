@@ -189,6 +189,10 @@
 					<a href="#pagefour" class="ui-btn ui-shadow">Three Random Images!</a>
 					<br />
 				</div>
+				<div id="kaikki">
+					<a href="#pagefive" class="ui-btn ui-shadow">Show all Randoms!</a>
+					<br />
+				</div>
 				<br />
 			</center>
 		</div>
@@ -264,6 +268,23 @@
 				echo "<img src=\"".$gearless[$rand_keys[0]][2]."\" width=\"100%\" alt=\"random".$gearless[$rand_keys[0]][0]."\">";
 				echo "<img src=\"".$gearless[$rand_keys[1]][2]."\" width=\"100%\" alt=\"random".$gearless[$rand_keys[1]][0]."\">";
 				echo "<img src=\"".$gearless[$rand_keys[2]][2]."\" width=\"100%\" alt=\"random".$gearless[$rand_keys[2]][0]."\">";
+			?>
+			</div>
+		</div>
+		<?php echo $footer; ?>
+	</div>
+	<div data-role="page" id="pagefive" data-theme="b">
+	
+		<div data-role="header">
+			<h1><a href="#pageone" data-transition="fade"><img src="./randoms/Gearless_logo_little_invert.png" /></a></h1>
+		</div>
+
+		<div data-role="main" class="ui-content">
+			<div id="kuvat" align="center">
+			<?php
+				foreach($gearless as $pics){
+					echo "<img src=\"".$pics[2]."\" width=\"100%\" alt=\"random".$pics[0]."\">";
+				}
 			?>
 			</div>
 		</div>
