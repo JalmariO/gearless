@@ -16,57 +16,57 @@
 	<?php
 	$fastrax = array
 	  (
-	  "A" => array("A","Unipod","./randoms/fastrax/randomAunipod.jpg"),
-	  "B" => array("B","Stairstep Diamond","./randoms/fastrax/randomBStairstepDiamond.jpg"),
-	  "C" => array("C","Murphy Flake","./randoms/fastrax/randomCMurphyFlake.jpg"),
-	  "D" => array("D","Yuan","./randoms/fastrax/randomDYuan.jpg"),
-	  "E" => array("E","Meeker","./randoms/fastrax/randomEMeeker.jpg"),
-	  "F" => array("F","Open Accordian","./randoms/fastrax/randomFOpenAccordian.jpg"),
-	  "G" => array("G","Cataccord","./randoms/fastrax/randomGCataccord.jpg"),
-	  "H" => array("H","Bow","./randoms/fastrax/randomHBow.jpg"),
-	  "J" => array("J","Donut","./randoms/fastrax/randomJDonut.jpg"),
-	  "K" => array("K","Hook","./randoms/fastrax/randomKHook.jpg"),
-	  "L" => array("L","Adder","./randoms/fastrax/randomLAdder.jpg"),
-	  "M" => array("M","Star","./randoms/fastrax/randomMStar.jpg"),
-	  "N" => array("N","Crank","./randoms/fastrax/randomNCrank.jpg"),
-	  "O" => array("O","Satellite","./randoms/fastrax/randomOSatellite.jpg"),
-	  "P" => array("P","Sidebody","./randoms/fastrax/randomPSidebody.jpg"),
-	  "Q" => array("Q","Phalanx","./randoms/fastrax/randomQPhalanx.jpg"),
-	  "2" => array("2","2","./blocks/2.gif"),
-	  "4" => array("4","4","./blocks/4.gif"),
-	  "6" => array("6","6","./blocks/6.gif"),
-	  "7" => array("7","7","./blocks/7.gif"),
-	  "8" => array("8","8","./blocks/8.gif"),
-	  "9" => array("9","9","./blocks/9.gif"),
-	  "19" => array("19","19","./blocks/19.gif"),
-	  "21" => array("21","21","./blocks/21.gif")
+	  "A" => array("A","Unipod","./randoms/fastrax/randomAunipod.jpg",1),
+	  "B" => array("B","Stairstep Diamond","./randoms/fastrax/randomBStairstepDiamond.jpg",1),
+	  "C" => array("C","Murphy Flake","./randoms/fastrax/randomCMurphyFlake.jpg",1),
+	  "D" => array("D","Yuan","./randoms/fastrax/randomDYuan.jpg",1),
+	  "E" => array("E","Meeker","./randoms/fastrax/randomEMeeker.jpg",1),
+	  "F" => array("F","Open Accordian","./randoms/fastrax/randomFOpenAccordian.jpg",1),
+	  "G" => array("G","Cataccord","./randoms/fastrax/randomGCataccord.jpg",1),
+	  "H" => array("H","Bow","./randoms/fastrax/randomHBow.jpg",1),
+	  "J" => array("J","Donut","./randoms/fastrax/randomJDonut.jpg",1),
+	  "K" => array("K","Hook","./randoms/fastrax/randomKHook.jpg",1),
+	  "L" => array("L","Adder","./randoms/fastrax/randomLAdder.jpg",1),
+	  "M" => array("M","Star","./randoms/fastrax/randomMStar.jpg",1),
+	  "N" => array("N","Crank","./randoms/fastrax/randomNCrank.jpg",1),
+	  "O" => array("O","Satellite","./randoms/fastrax/randomOSatellite.jpg",1),
+	  "P" => array("P","Sidebody","./randoms/fastrax/randomPSidebody.jpg",1),
+	  "Q" => array("Q","Phalanx","./randoms/fastrax/randomQPhalanx.jpg",1),
+	  "2" => array("2","2","./blocks/2.gif",2),
+	  "4" => array("4","4","./blocks/4.gif",2),
+	  "6" => array("6","6","./blocks/6.gif",2),
+	  "7" => array("7","7","./blocks/7.gif",2),
+	  "8" => array("8","8","./blocks/8.gif",2),
+	  "9" => array("9","9","./blocks/9.gif",2),
+	  "19" => array("19","19","./blocks/19.gif",2),
+	  "21" => array("21","21","./blocks/21.gif",2)
 	  );
 	$gearless = array
 	  (
-	  "A" => array("A","Unipod","./randoms/gearless/randomA.png"),
-	  "B" => array("B","Stairstep Diamond","./randoms/gearless/randomB.png"),
-	  "C" => array("C","Murphy Flake","./randoms/gearless/randomC.png"),
-	  "D" => array("D","Yuan","./randoms/gearless/randomD.png"),
-	  "E" => array("E","Meeker","./randoms/gearless/randomE.png"),
-	  "F" => array("F","Open Accordian","./randoms/gearless/randomF.png"),
-	  "G" => array("G","Cataccord","./randoms/gearless/randomG.png"),
-	  "H" => array("H","Bow","./randoms/gearless/randomH.png"),
-	  "J" => array("J","Donut","./randoms/gearless/randomJ.png"),
-	  "K" => array("K","Hook","./randoms/gearless/randomK.png"),
-	  "L" => array("L","Adder","./randoms/gearless/randomL.png"),
-	  "M" => array("M","Star","./randoms/gearless/randomM.png"),
-	  "N" => array("N","Crank","./randoms/gearless/randomN.png"),
-	  "O" => array("O","Satellite","./randoms/gearless/randomO.png"),
-	  "P" => array("P","Sidebody","./randoms/gearless/randomP.png"),
-	  "Q" => array("Q","Phalanx","./randoms/gearless/randomQ.png"),
-	  "2" => array("2","2","./blocks/2.gif"),
-	  "4" => array("4","4","./blocks/4.gif"),
-	  "6" => array("6","6","./blocks/6.gif"),
-	  "7" => array("7","7","./blocks/7.gif"),
-	  "8" => array("8","8","./blocks/8.gif"),
-	  "9" => array("9","9","./blocks/9.gif"),
-	  "19" => array("19","19","./blocks/19.gif"),
-	  "21" => array("21","21","./blocks/21.gif")
+	  "A" => array("A","Unipod","./randoms/gearless/randomA.png",1),
+	  "B" => array("B","Stairstep Diamond","./randoms/gearless/randomB.png",1),
+	  "C" => array("C","Murphy Flake","./randoms/gearless/randomC.png",1),
+	  "D" => array("D","Yuan","./randoms/gearless/randomD.png",1),
+	  "E" => array("E","Meeker","./randoms/gearless/randomE.png",1),
+	  "F" => array("F","Open Accordian","./randoms/gearless/randomF.png",1),
+	  "G" => array("G","Cataccord","./randoms/gearless/randomG.png",1),
+	  "H" => array("H","Bow","./randoms/gearless/randomH.png",1),
+	  "J" => array("J","Donut","./randoms/gearless/randomJ.png",1),
+	  "K" => array("K","Hook","./randoms/gearless/randomK.png",1),
+	  "L" => array("L","Adder","./randoms/gearless/randomL.png",1),
+	  "M" => array("M","Star","./randoms/gearless/randomM.png",1),
+	  "N" => array("N","Crank","./randoms/gearless/randomN.png",1),
+	  "O" => array("O","Satellite","./randoms/gearless/randomO.png",1),
+	  "P" => array("P","Sidebody","./randoms/gearless/randomP.png",1),
+	  "Q" => array("Q","Phalanx","./randoms/gearless/randomQ.png",1),
+	  "2" => array("2","2","./blocks/2.gif",2),
+	  "4" => array("4","4","./blocks/4.gif",2),
+	  "6" => array("6","6","./blocks/6.gif",2),
+	  "7" => array("7","7","./blocks/7.gif",2),
+	  "8" => array("8","8","./blocks/8.gif",2),
+	  "9" => array("9","9","./blocks/9.gif",2),
+	  "19" => array("19","19","./blocks/19.gif",2),
+	  "21" => array("21","21","./blocks/21.gif",2)
 	  );
 	?>
 	//Jquery, jolla lisätään ja poistetaan elementtejä sivulle. Kuvat , kirjaimet jne. Samalla annetaan elementeille css -luokkia tehosteiksi.
@@ -157,6 +157,9 @@
 		$("#ref").click(function() {
 			location.reload();
         });
+		$("#ref2").click(function() {
+			location.reload();
+        });
 	
 	});
 	</script>
@@ -185,12 +188,13 @@
 				</div>
 				<br />
 				<div id="kirjaimet">
-					<br />
 					<a href="#pagefour" class="ui-btn ui-shadow">Three Random Images!</a>
-					<br />
 				</div>
-				<div id="kaikki">
-					<a href="#pagefive" class="ui-btn ui-shadow">Show all Randoms!</a>
+				<div id="kirjaimet">
+					<a href="#pagefive" class="ui-btn ui-shadow">Competition Jump!</a>
+				</div>
+				<div id="kirjaimet">
+					<a href="#pagesix" class="ui-btn ui-shadow">Show all Images!</a>
 					<br />
 				</div>
 				<br />
@@ -262,18 +266,57 @@
 		<div data-role="main" class="ui-content">
 			<div id="kuvat" align="center">
 			<?php
-				$rand_keys = array_rand($gearless, 3);
-				echo "<div id=\"kirjaimet\">".$gearless[$rand_keys[0]][0]." - ".$gearless[$rand_keys[1]][0]." - ".$gearless[$rand_keys[2]][0]."</div>";
+				$jumps = array_slice($gearless, 0, 15);
+				shuffle($jumps);
+				echo "<div id=\"kirjaimet\">".$jumps[0][0]." - ".$jumps[1][0]." - ".$jumps[2][0]."</div>";
 				echo "<button id=\"ref\" class=\"ui-btn ui-shadow\">New Randoms!</button><br/>\n";
-				echo "<img src=\"".$gearless[$rand_keys[0]][2]."\" width=\"100%\" alt=\"random".$gearless[$rand_keys[0]][0]."\">";
-				echo "<img src=\"".$gearless[$rand_keys[1]][2]."\" width=\"100%\" alt=\"random".$gearless[$rand_keys[1]][0]."\">";
-				echo "<img src=\"".$gearless[$rand_keys[2]][2]."\" width=\"100%\" alt=\"random".$gearless[$rand_keys[2]][0]."\">";
+				echo "<img src=\"".$jumps[0][2]."\" width=\"100%\" alt=\"random".$jumps[0][0]."\">";
+				echo "<img src=\"".$jumps[1][2]."\" width=\"100%\" alt=\"random".$jumps[1][0]."\">";
+				echo "<img src=\"".$jumps[2][2]."\" width=\"100%\" alt=\"random".$jumps[2][0]."\">";
 			?>
 			</div>
 		</div>
 		<?php echo $footer; ?>
-	</div>
+	</div>	
 	<div data-role="page" id="pagefive" data-theme="b">
+	
+		<div data-role="header">
+			<h1><a href="#pageone" data-transition="fade"><img src="./randoms/Gearless_logo_little_invert.png" /></a></h1>
+		</div>
+
+		<div data-role="main" class="ui-content">
+			<div id="kuvat" align="center">
+			<?php
+				$jumps = $gearless;
+				shuffle($jumps);
+				$points = 0;
+				$jumps_length = sizeof($jumps)-2;
+				$order = array(0,1);
+				
+				$jump_string = $jumps[0][0] . " - " . $jumps[1][0];
+				$points = $points + $jumps[0][3] + $jumps[1][3];
+				
+				for($i=2; $i<$jumps_length; $i++){
+					if($points<3){
+						array_push($order,$i);
+						$points = $points + $jumps[$i][3];
+						$jump_string .= " - " . $jumps[$i][0];
+					}
+				}
+				
+				echo "<div id=\"kirjaimet\">".$jump_string."</div>";
+				echo "<button id=\"ref2\" class=\"ui-btn ui-shadow\">New Jump!</button><br/>\n";
+				
+				foreach ($order as $number) {
+					echo "<img src=\"".$jumps[$number][2]."\" width=\"100%\" alt=\"random".$jumps[$number][0]."\">";
+				}				
+
+			?>
+			</div>
+		</div>
+		<?php echo $footer; ?>
+	</div>	
+	<div data-role="page" id="pagesix" data-theme="b">
 	
 		<div data-role="header">
 			<h1><a href="#pageone" data-transition="fade"><img src="./randoms/Gearless_logo_little_invert.png" /></a></h1>
